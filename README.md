@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Science
 - 💬 Ask me about anything
 - 📫 How to reach me: tcongnguyen0210@gmail.com
-- ⚡ Trên con đường thành công không có dấu chân của kẻ lười biếng . Vì họ không đi bộ . 
+- ⚡ Trên con đường thành công không có dấu chân của kẻ lười biếng . 
 
